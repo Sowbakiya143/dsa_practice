@@ -1,3 +1,4 @@
+package arr;
 import java.util.*;
 public class double_arr_element {
   public static void main(String[] args) {

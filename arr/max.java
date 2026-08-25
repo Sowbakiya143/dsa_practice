@@ -1,10 +1,12 @@
-public class sum {
+package arr;
+public class max {
   public static void main(String[] args) {
     int[] arr = {10, 20, 30, 40, 50};
-    int sum=0;
+    int max=0;
     for(int i=0;i<arr.length;i++){
-      sum+=arr[i];
+      if(arr[i]>max) max=arr[i];
     }
-    System.out.println("sum of array elements is: "+sum);
+    System.out.println(max);
+    
   }
 }

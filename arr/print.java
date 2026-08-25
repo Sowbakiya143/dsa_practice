@@ -1,3 +1,4 @@
+package arr;
 import java.util.Scanner;
 class print{
   public static void main(String args[]){

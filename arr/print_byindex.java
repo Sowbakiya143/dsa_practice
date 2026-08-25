@@ -1,3 +1,4 @@
+package arr;
 import java.util.*;
 class print_byindex{
   public static void main(String args[]){

@@ -1,3 +1,4 @@
+
 public class first_neg {
   public static void main(String[] args) {
      int[] arr = {14, 3, -21, 8, -17, 6, 11};
